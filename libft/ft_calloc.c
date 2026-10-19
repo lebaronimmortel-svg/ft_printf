@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_calloc.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: alexfuen <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: alexfuen <alexfuen@student.42angouleme.fr> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/14 20:14:03 by alexfuen          #+#    #+#             */
 /*   Updated: 2025/10/14 20:14:06 by alexfuen         ###   ########.fr       */

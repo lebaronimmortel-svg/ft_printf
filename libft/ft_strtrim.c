@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strtrim.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: alexfuen <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: alexfuen <alexfuen@student.42angouleme.fr> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/15 23:26:39 by alexfuen          #+#    #+#             */
 /*   Updated: 2025/10/15 23:26:41 by alexfuen         ###   ########.fr       */

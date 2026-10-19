@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_striteri.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: alexfuen <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: alexfuen <alexfuen@student.42angouleme.fr> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/16 13:58:14 by alexfuen          #+#    #+#             */
 /*   Updated: 2025/10/16 13:58:15 by alexfuen         ###   ########.fr       */

@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstclear.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: alexfuen <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: alexfuen <alexfuen@student.42angouleme.fr> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/16 22:30:49 by alexfuen          #+#    #+#             */
 /*   Updated: 2025/10/16 22:30:51 by alexfuen         ###   ########.fr       */

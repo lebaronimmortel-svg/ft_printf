@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_printf_utils.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: alexfuen <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: alexfuen <alexfuen@student.42angouleme.fr> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/22 20:31:02 by alexfuen          #+#    #+#             */
 /*   Updated: 2025/10/22 20:31:03 by alexfuen         ###   ########.fr       */
